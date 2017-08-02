@@ -1,2 +1,2 @@
-# tpbootstrap
-all bootstrap tp and test
+# blog-php-simplon
+A exemple blog engine in PHP.
